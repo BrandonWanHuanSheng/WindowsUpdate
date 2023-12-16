@@ -1,0 +1,1 @@
+<LocalizedProperties><Language>zh-tw</Language><Title>Q329115：安全性修正檔 (Windows XP)</Title><Description>此修正檔可以解決 Windows XP 中可能發生的「憑證驗證瑕疵可能導致偽造識別」問題。立即下載可以避免攻擊者使用憑證嘗試偽造識別。安裝此項目後，可能必須重新啟動您的電腦。</Description><MoreInfoUrl>http://go.microsoft.com/fwlink/?LinkId=9524</MoreInfoUrl><SupportUrl>http://support.microsoft.com</SupportUrl></LocalizedProperties>
