@@ -1,0 +1,1 @@
+<UpdateIdentity UpdateID="91A34436-99B8-4644-A282-A7F292422DD4" RevisionNumber="100" /><Properties UpdateType="Detectoid" /><Relationships><Prerequisites><UpdateIdentity UpdateID="A4BEDB1D-A809-4F63-9B49-3FE31967B6D0" /></Prerequisites></Relationships><ApplicabilityRules><IsInstalled><b.WindowsVersion Comparison="EqualTo" ServicePackMajor="0" /></IsInstalled></ApplicabilityRules>
