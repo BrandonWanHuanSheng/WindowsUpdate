@@ -1,0 +1,1 @@
+<UpdateIdentity UpdateID="70c87fad-8adc-48e8-a06a-13fa0d3c53c9" RevisionNumber="100" /><Properties UpdateType="Detectoid" /><Relationships><Prerequisites><UpdateIdentity UpdateID="c96c35fc-a21f-481b-917c-10c4f64792cb" /></Prerequisites></Relationships><ApplicabilityRules><IsInstalled><b.FileExists Path="msxml6.dll" Csidl="37" /></IsInstalled></ApplicabilityRules>
