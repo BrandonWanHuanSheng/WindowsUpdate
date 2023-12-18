@@ -1,1 +1,0 @@
-<LocalizedProperties><Language>zh-cn</Language><Title>Windows Server 2003 安全更新程序 (KB824151)</Title><Description>现已确认有一个安全问题，攻击者可能会利用此问题导致运行 Microsoft Internet Information Services 的计算机停止响应。通过安装 Microsoft 提供的本更新程序，可以帮助您保护计算机。安装本更新程序之后，可能必须重新启动计算机。</Description><SupportUrl>http://go.microsoft.com/fwlink/?LinkId=19930</SupportUrl></LocalizedProperties>

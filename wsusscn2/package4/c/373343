@@ -1,1 +1,0 @@
-<UpdateIdentity UpdateID="0dcf0960-3f43-424d-8077-114b67bd6453" RevisionNumber="100" /><Properties UpdateType="Detectoid" /><Relationships /><ApplicabilityRules><IsInstalled><b.WindowsVersion Comparison="GreaterThanOrEqualTo" MajorVersion="6" MinorVersion="0" BuildNumber="5600" /></IsInstalled></ApplicabilityRules>

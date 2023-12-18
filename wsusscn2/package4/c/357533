@@ -1,1 +1,0 @@
-<UpdateIdentity UpdateID="d4a1bfe4-b7b1-4e14-b3d6-6fbe24f8d722" RevisionNumber="100" /><Properties UpdateType="Detectoid" /><Relationships /><ApplicabilityRules><IsInstalled><Not><b.RegValueExists Key="HKEY_LOCAL_MACHINE" Subkey="SOFTWARE\Microsoft\Windows Interface Pack" Value="LIPInstalled" Type="REG_SZ" /></Not></IsInstalled></ApplicabilityRules>

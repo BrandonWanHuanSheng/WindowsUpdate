@@ -1,1 +1,0 @@
-<UpdateIdentity UpdateID="0C770FE1-04E3-44D9-AC9A-D902D509B8BA" RevisionNumber="100" /><Properties UpdateType="Detectoid" /><Relationships><Prerequisites><UpdateIdentity UpdateID="CF3B8086-5954-4857-B492-339CBDEBA89B" /></Prerequisites></Relationships><ApplicabilityRules><IsInstalled><b.WindowsVersion ProductType="1" /></IsInstalled></ApplicabilityRules>

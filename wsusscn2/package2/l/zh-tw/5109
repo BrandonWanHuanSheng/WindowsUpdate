@@ -1,1 +1,0 @@
-<LocalizedProperties><Language>zh-tw</Language><Title>329170：安全性修正檔</Title><Description>已經查出一種可能發生的安全性問題，攻擊者可以用來擾亂公司內部網路中套用安全性設定的 Windows 電腦設備。攻擊者可以放寬本身電腦上的安全性設定、或更嚴格限制其他人的安全性設定。網路管理員安裝此修正檔可以協助解決此問題。安裝此項目後，可能必須重新啟動您的電腦。</Description><MoreInfoUrl>http://go.microsoft.com/fwlink/?linkid=11970</MoreInfoUrl><SupportUrl>http://support.microsoft.com</SupportUrl></LocalizedProperties>

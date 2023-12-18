@@ -1,1 +1,0 @@
-<UpdateIdentity UpdateID="42AAD4F1-57A8-4965-B34B-B5664922C9BE" RevisionNumber="100" /><Properties UpdateType="Detectoid" /><ApplicabilityRules><IsInstalled><And><b.WindowsLanguage Language="pt" /><Not><b.WindowsLanguage Language="pt-br" /></Not></And></IsInstalled></ApplicabilityRules>
