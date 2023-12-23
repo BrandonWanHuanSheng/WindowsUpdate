@@ -1,0 +1,2 @@
+<LocalizedProperties><Language>zh-tw</Language><Title>KB894549:Exchange Server 2003 Service Pack 1 安全性更新用於</Title><Description>目前已發現一個安全性問題，這個問題可能會以下列方式影響您的 Exchange 2003 系統： 1. 阻斷服務   2. 權限提高。 建議您在組織中所有的 Microsoft Exchange Server 2003 Service Pack 1 伺服器上安裝此更新程式。</Description><UninstallNotes>可從控制台中的 [新增或移除程式] 進行解除安裝
+</UninstallNotes><MoreInfoUrl>http://support.microsoft.com/?kbid=894549</MoreInfoUrl><SupportUrl>http://www.microsoft.com/technet/treeview/default.asp?url=/technet/prodtechnol/exchange/</SupportUrl></LocalizedProperties>

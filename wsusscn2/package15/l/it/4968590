@@ -1,0 +1,5 @@
+<LocalizedProperties><Language>it</Language><Title>Aggiornamento della protezione per ISA Server 2006 SP1 (KB 968078)</Title><Description>Questo aggiornamento consente di risolvere i problemi descritti nell'articolo 968078 della Knowledge Base (ISA Server 2006):
+
+• È possibile che i listener di pubblicazione sul Web e dei proxy Web di ISA Server 2006 non accettino più nuove richieste dopo aver ricevuto pacchetti speciali. • È possibile che l'autenticazione basata su form di ISA Server 2006 consenta a un sito Web dannoso di reindirizzare il browser a un form di accesso che sembra attendibile mentre non lo è.
+
+</Description><UninstallNotes>Questo aggiornamento software può essere rimosso tramite Installazione applicazioni del Pannello di controllo.</UninstallNotes><MoreInfoUrl>http://support.microsoft.com/kb/968078</MoreInfoUrl><SupportUrl>http://support.microsoft.com/kb/968078</SupportUrl></LocalizedProperties>

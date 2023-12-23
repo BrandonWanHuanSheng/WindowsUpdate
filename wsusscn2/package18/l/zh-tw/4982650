@@ -1,0 +1,1 @@
+<LocalizedProperties><Language>zh-tw</Language><Title>Microsoft SharePoint Server 2010 安全性更新 (KB2566456)</Title><Description>Microsoft SharePoint Server 2010 中存在安全性弱點，當開啟遭到惡意篡改的檔案時，可能會允許執行任意程式碼。此更新會修復這項弱點。</Description><MoreInfoUrl>http://support.microsoft.com/kb/2566456</MoreInfoUrl><SupportUrl>http://support.microsoft.com/?LN=zh-tw</SupportUrl></LocalizedProperties>

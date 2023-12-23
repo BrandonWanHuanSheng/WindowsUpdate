@@ -1,0 +1,4 @@
+<LocalizedProperties><Language>de</Language><Title>Sicherheitsupdate für Microsoft Virtual PC 2004 und Microsoft Virtual PC 2004 Service Pack 1 (KB 937986)</Title><Description>
+          Es wurde eine Sicherheitslücke entdeckt, durch die ein Angreifer auf virtuellen Computern mit Virtual PC 2004 oder Virtual PC 2004 Service Pack 1 seine Rechte hochstufen könnte (Elevation of Privilege).
+          Durch die Installation dieses Updates von Microsoft können Sie Ihren Computer vor dieser Sicherheitslücke schützen. Nach der Installation des Updates müssen Sie gegebenenfalls den Computer neu starten.
+        </Description><MoreInfoUrl>http://go.microsoft.com/fwlink/?LinkId=92734</MoreInfoUrl><SupportUrl>http://go.microsoft.com/fwlink/?LinkId=92734</SupportUrl></LocalizedProperties>

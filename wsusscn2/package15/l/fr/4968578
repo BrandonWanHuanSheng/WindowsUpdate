@@ -1,0 +1,4 @@
+<LocalizedProperties><Language>fr</Language><Title>Mise à jour de sécurité pour ISA Server 2006 Supportability Pack (KB 968078)</Title><Description>Cette mise à jour résout les problèmes décrits dans l'article 968078 de la Base de connaissances (ISA Server 2006) :
+
+• Les programmes d'écoute des serveurs de publication Web et des serveurs proxy ISA Server 2006 peuvent arrêter d'accepter de nouvelles requêtes après réception de paquets spécialement conçus. • L'authentification ISA Server 2006 basée sur des formulaires, peut autoriser un site Web malveillant à rediriger un navigateur vers un formulaire de connexion qui semble conforme, mais qui ne l'est pas.
+</Description><UninstallNotes>Cette mise à jour peut être supprimée via Ajouter ou supprimer des programmes dans le Panneau de configuration.</UninstallNotes><MoreInfoUrl>http://support.microsoft.com/kb/968078</MoreInfoUrl><SupportUrl>http://support.microsoft.com/kb/968078</SupportUrl></LocalizedProperties>

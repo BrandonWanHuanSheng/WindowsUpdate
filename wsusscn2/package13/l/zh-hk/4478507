@@ -1,0 +1,11 @@
+<LocalizedProperties><Language>zh-hk</Language><Title>x64 系統 Windows Server 2008 的 Windows Internet Explorer 9</Title><Description>
+          Windows Internet Explorer 9 會透過 Windows 強大的功能，傳送在外觀及執行功能上與原生應用程式相似的網站與應用程式。
+
+          快速： Internet Explorer 9 在各方面都以快速取勝。Internet Explorer 9 係專為透過 Windows 完全發揮電腦硬體效能所設計，可以為您提供豐富的影像與擬真的體驗，其速度與回應能力與電腦上安裝的原生應用程式不相上下。
+
+          乾淨： Internet Explorer 會使用乾淨的外觀與加大的檢視區來將焦點集中在網頁上，讓您的網站耀眼奪目。與 Windows Server 2008 的直覺式與完美整合，只要按一下滑鼠，即可存取固定在工作列上的 Web 應用程式。
+
+          值得信任： Internet Explorer 是值得信任的 Web 存取方法，因為其中採用了一組完備的內建安全性、隱私與可靠性技術，更能夠保護您電腦的安全並確保您在瀏覽網頁時不受干擾。
+
+          互通性： 支援 HTML5 與針對為了利用 GPU 優點所設計的現代 Web 標準，表示相同的標記不但能夠跨 Web 運作，而且執行速度更快，可以透過 Windows 和 Internet Explorer 9 提供更豐富的體驗。
+        </Description><UninstallNotes>選取 [程式和功能] 控制台中的 [檢視安裝的更新]，可以移除這個軟體更新。</UninstallNotes><MoreInfoUrl>http://go.microsoft.com/fwlink/?LinkId=71727</MoreInfoUrl><SupportUrl>http://go.microsoft.com/fwlink/?LinkId=71719</SupportUrl></LocalizedProperties>

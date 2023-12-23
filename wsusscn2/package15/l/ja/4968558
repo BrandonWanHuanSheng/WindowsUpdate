@@ -1,0 +1,4 @@
+<LocalizedProperties><Language>ja</Language><Title>ISA Server 2004 Enterprise Edition 用のセキュリティ更新プログラム (KB 960995)
+</Title><Description>この更新プログラムによって、サポート技術情報の記事 960995 (ISA Server 2004) に記載されている問題が解決されます。
+
+• ISA Server 2004 の Web プロキシおよび Web パブリッシングのリスナーは、巧妙に細工されたパケットを受け取ると、その後、新しいリクエストの受け入れを停止することがあります。</Description><UninstallNotes>このソフトウェア更新プログラムは、コントロール パネルの [プログラムの追加と削除] を使用して削除できます。</UninstallNotes><MoreInfoUrl>http://support.microsoft.com/kb/960995</MoreInfoUrl><SupportUrl>http://support.microsoft.com/kb/960995</SupportUrl></LocalizedProperties>

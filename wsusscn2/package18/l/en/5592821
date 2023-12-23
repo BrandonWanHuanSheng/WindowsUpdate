@@ -1,0 +1,1 @@
+<LocalizedProperties><Language>en</Language><Title>WSUS 3.0 SP2 Detectoid</Title><Description>This detectoid will evaluate to TRUE only if WSUS SP2 is on the machine and it is on WSUS 3 SP2 supported platforms.</Description></LocalizedProperties>

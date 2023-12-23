@@ -1,0 +1,2 @@
+<LocalizedProperties><Language>zh-tw</Language><Title>Microsoft Application Virtualization 4.6 Service Pack 1</Title><Description>Application Virtualization (App-V) 4.6 Service Pack 1 (SP1) 利用最新的安全性和穩定性增強功能更新 App-V 4.6，有助於讓執行 App-V 的電腦保持在最新、穩定且更安全的狀態。此 Service Pack 的目的在於增進現有產品功能的整體品質，同時與舊版維持高度的相容性。 安裝 Service Pack 可能需要幾分鐘的時間，而且您可能需要重新啟動電腦。 App-V 4.6 SP1 更新無法解除安裝。 如果您要執行舊版的 App-V，則必須完全解除安裝 App-V SP1，然後再重新安裝慣用的版本。
+</Description><MoreInfoUrl>http://support.microsoft.com/kb/2445990</MoreInfoUrl><SupportUrl>http://support.microsoft.com</SupportUrl></LocalizedProperties>
