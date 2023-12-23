@@ -1,0 +1,3 @@
+<LocalizedProperties><Language>en</Language><Title>Update Rollup 1 for Windows Small Business Server 2011 Standard (KB2555251)
+</Title><Description>This Update Rollup resolves issues that were found since Windows Small Business Server 2011 Standard was released. This update is highly recommended for all Windows Small Business Server 2011 Standard customers.
+</Description><UninstallNotes>This software update can be removed via Programs and Features in Control Panel. Additional steps are required for a complete removal, please refer to KB2555251 for more details.</UninstallNotes><MoreInfoUrl>http://support.microsoft.com/KB/2555251</MoreInfoUrl><SupportUrl>http://go.microsoft.com/fwlink/?LinkId=131761</SupportUrl></LocalizedProperties>

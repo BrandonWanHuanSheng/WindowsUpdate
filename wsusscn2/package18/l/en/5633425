@@ -1,0 +1,4 @@
+<LocalizedProperties><Language>en</Language><Title>System Center 2012 - Virtual Machine Manager - vmmServer</Title><Description>This is to detect
+* If the Microsoft System Center 2012 Virtual Machine Manager Server component is installed by checking product code
+*If that the VMMService is installed (this service is not installed if "/prep" option is given at setup.  This update should not be offered if the VMMService is not installed, only after the entire setup process is complete).This is 64 bit only
+* If the installed product is RTM Prime, NOT RTM old.</Description></LocalizedProperties>

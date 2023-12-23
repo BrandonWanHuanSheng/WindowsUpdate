@@ -1,0 +1,4 @@
+<LocalizedProperties><Language>en</Language><Title>Security Update for ISA Server 2004 Enterprise Edition (KB 960995)
+</Title><Description>This update resolves the issues described in Knowledge Base articles 960995 (ISA Server 2004):
+
+• ISA Server 2004 Web proxy and Web publishing listeners may stop accepting new requests after receiving specially-crafted packets</Description><UninstallNotes>This software update can be removed via Add or Remove Programs in Control Panel.</UninstallNotes><MoreInfoUrl>http://support.microsoft.com/kb/960995</MoreInfoUrl><SupportUrl>http://support.microsoft.com/kb/960995</SupportUrl></LocalizedProperties>

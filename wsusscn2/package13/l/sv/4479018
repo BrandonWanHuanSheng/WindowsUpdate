@@ -1,0 +1,11 @@
+<LocalizedProperties><Language>sv</Language><Title>Windows Internet Explorer 9 för Windows Vista för x64-baserade system</Title><Description>
+          I Windows Internet Explorer 9 kan du använda webbplatser och webbprogram som ser ut och fungerar som lokalt installerade datorprogram via Windows.
+
+          Snabbt: Internet Explorer 9 är snabbt. Internet Explorer 9 är utformat så att du ska få ut mesta möjliga av maskinvaran via Windows. Upplev webbgrafik- och webbprogramprestanda som motsvarar prestanda för lokalt installerade program på din dator.
+
+          Enkelt: I Internet Explorer sätts webbplatserna i fokus tack vare ett renare utseende och ett utökat visningsområde som får dina webbplatser att glänsa. Intuitiv och smidig integration med Windows Vista gör att du med en enda klickning får tillgång till webbprogram som fästs direkt i Aktivitetsfältet.
+
+          Betrott: Internet Explorer är en tryggare väg till webben. Här finns en omfattande samling inbyggd teknik för säkerhet, sekretess och tillförlitlighet som gör att du kan känna dig säkrare och surfa ostört.
+
+          Kompatibelt: Stödet för HTML5 och moderna webbstandarder utformade för att använda GPU:er innebär att samma kod fungerar över hela webben, men även att den blir snabbare och ger en rikare upplevelse via Windows och Internet Explorer 9.
+        </Description><UninstallNotes>Uppdateringen kan avinstalleras genom att välja Visa installerade uppdateringar på kontrollpanelen Program och funktioner.</UninstallNotes><MoreInfoUrl>http://go.microsoft.com/fwlink/?LinkId=71727</MoreInfoUrl><SupportUrl>http://go.microsoft.com/fwlink/?LinkId=71719</SupportUrl></LocalizedProperties>

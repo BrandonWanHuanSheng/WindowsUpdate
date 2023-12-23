@@ -1,0 +1,4 @@
+<LocalizedProperties><Language>ja</Language><Title>ISA Server 2006 RTM 用のセキュリティ更新プログラム (KB 968078)</Title><Description>この更新プログラムによって、サポート技術情報の記事 968078 (ISA Server 2006) に記載されている問題が解決されます。
+
+• ISA Server 2006 の Web プロキシおよび Web パブリッシングのリスナーは、巧妙に細工されたパケットを受け取ると、その後、新しいリクエストの受け入れを停止することがあります。• ISA Server 2006 フォームをベースとする認証は、悪意のある Web サイトによって、正当であるように見えて実は正当ではないログイン フォームにブラウザがリダイレクトされることを許可するおそれがあります。
+</Description><UninstallNotes>このソフトウェア更新プログラムは、コントロール パネルの [プログラムの追加と削除] を使用して削除できます。</UninstallNotes><MoreInfoUrl>http://support.microsoft.com/kb/968078</MoreInfoUrl><SupportUrl>http://support.microsoft.com/kb/968078</SupportUrl></LocalizedProperties>

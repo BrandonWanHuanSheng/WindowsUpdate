@@ -1,0 +1,4 @@
+<LocalizedProperties><Language>pt-br</Language><Title>Atualização de segurança do Pacote de Suporte do ISA Server 2006 (KB 968078)</Title><Description>Esta atualização resolve os problemas descritos no artigo 968078 (ISA Server 2006) da Base de Dados de Conhecimento:
+
+• O proxy da Web e os ouvintes de publicação na Web do ISA Server 2006 talvez parem de aceitar novas solicitações após o recebimento de pacotes especialmente criados. • A autenticação com base em formulários do ISA Server 2006 talvez permita que um navegador seja redirecionado por um site mal-intencionado para um formulário de logon que pareça legítimo, mas não é.
+</Description><UninstallNotes>Esta atualização de software pode ser removida através da opção Adicionar ou Remover Programas no Painel de Controle.</UninstallNotes><MoreInfoUrl>http://support.microsoft.com/kb/968078</MoreInfoUrl><SupportUrl>http://support.microsoft.com/kb/968078</SupportUrl></LocalizedProperties>

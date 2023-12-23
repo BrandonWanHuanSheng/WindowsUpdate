@@ -1,0 +1,4 @@
+<LocalizedProperties><Language>de</Language><Title>Forefront Client Security Service Pack 1 (KB951951)</Title><Description>
+	Mit diesem Service Pack wird Microsoft Forefront Client Security auf Microsoft Forefront Client 	Security Service Pack 1 (SP1) aktualisiert. 
+	Dieses Service Pack kann auf Basis der Client Security-Verwaltungs- und Auflistungsserverrollen 		installiert werden.	Einige der Fehlerbehebungen aus SP1 wurden zuvor als einzelne Updates veröffentlicht. Dieses 	Service Pack fasst diese Updates zusammen. Weitere Informationen finden Sie im Microsoft 	Knowledge Base-Artikel KB951951
+       </Description><UninstallNotes>Dieses Softwareupdate kann über die Systemsteuerung mit der Option „Software“ entfernt werden.</UninstallNotes><MoreInfoUrl>http://support.microsoft.com/kb/951951</MoreInfoUrl><SupportUrl>http://go.microsoft.com/fwlink/?LinkId=59048</SupportUrl></LocalizedProperties>

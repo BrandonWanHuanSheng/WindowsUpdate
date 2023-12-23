@@ -1,0 +1,4 @@
+<LocalizedProperties><Language>zh-tw</Language><Title>Forefront Client Security Service Pack 1 (KB951951)</Title><Description>
+	此 Service Pack 可將 Microsoft Forefront Client Security 升級為 Microsoft Forefront Client	Security Service Pack 1 (SP1)。 
+	此 Service Pack 可在 Client Security 管理和集合伺服器		角色上安裝。	SP1 隨附的部分修正程式先前已以個別更新的形式發行。此	Service Pack 將這些更新合併於單一更新內。如需詳細資訊，請參閱 Microsoft	知識庫文章編號 KB951951
+       </Description><UninstallNotes>此軟體更新可透過 [控制台] 的 [新增或移除程式] 來加以移除。</UninstallNotes><MoreInfoUrl>http://support.microsoft.com/kb/951951</MoreInfoUrl><SupportUrl>http://go.microsoft.com/fwlink/?LinkId=59048</SupportUrl></LocalizedProperties>

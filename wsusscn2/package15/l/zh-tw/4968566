@@ -1,0 +1,4 @@
+<LocalizedProperties><Language>zh-tw</Language><Title>ISA Server 2004 Standard Edition (KB 960995) 的安全性更新</Title><Description>此更新會解決知識庫文章 960995 (ISA Server 2004) 所描述的問題：
+
+• ISA Server 2004 Web Proxy 和 Web 發行接聽程式在接收特別製作的封包後，即停止接受新的要求。 
+</Description><UninstallNotes>此軟體更新可以從 [控制台] 中的 [新增或移除程式] 加以移除。</UninstallNotes><MoreInfoUrl>http://support.microsoft.com/kb/960995</MoreInfoUrl><SupportUrl>http://support.microsoft.com/kb/960995</SupportUrl></LocalizedProperties>

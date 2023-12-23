@@ -1,0 +1,5 @@
+<LocalizedProperties><Language>zh-cn</Language><Title>ISA Server 2006 SP1 安全更新 (KB 968078)</Title><Description>此更新解决知识库文章 968078 (ISA Server 2006) 中描述的问题：
+
+• ISA Server 2006 Web 代理和 Web 发布侦听器可能在接收到专门捏造的数据包后停止接受新请求。• ISA Server 2006 基于表单的身份验证可能会让恶意网站将浏览器重定向到看起来合法但实际上不合法的登录表单。
+
+</Description><UninstallNotes>此软件更新可以通过“控制面板”中的“添加或删除程序”进行删除。</UninstallNotes><MoreInfoUrl>http://support.microsoft.com/kb/968078</MoreInfoUrl><SupportUrl>http://support.microsoft.com/kb/968078</SupportUrl></LocalizedProperties>
