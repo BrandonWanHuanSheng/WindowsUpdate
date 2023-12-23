@@ -1,0 +1,4 @@
+<LocalizedProperties><Language>de</Language><Title>Sicherheitsupdate für ISA Server 2006 RTM (KB 968078)</Title><Description>Mit diesem Update werden die im Knowledge Base-Artikel 968078 (ISA Server 2006) beschriebenen Probleme behoben:
+
+• Die Webproxy- und Webveröffentlichungslistener von ISA Server 2006 akzeptieren nach dem Empfangen von speziell erstellten Paketen möglicherweise keine Anforderungen mehr. • Die formularbasierte Authentifizierung von ISA Server 2006 kann dazu führen, dass eine bösartige Website den Browser an ein legitim erscheinendes Anmeldeformular umleiten kann.
+</Description><UninstallNotes>Dieses Softwareupdate kann über die Option Software in der Systemsteuerung entfernt werden.</UninstallNotes><MoreInfoUrl>http://support.microsoft.com/kb/968078</MoreInfoUrl><SupportUrl>http://support.microsoft.com/kb/968078</SupportUrl></LocalizedProperties>

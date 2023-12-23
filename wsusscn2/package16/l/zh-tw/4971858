@@ -1,0 +1,10 @@
+<LocalizedProperties><Language>zh-tw</Language><Title>Forefront Threat Management Gateway (TMG) 2010 Service Pack 1</Title><Description>此 Service Pack 含有下列改善功能： * 新報告 * URL 篩選強化 * 強化的分公司支援 * SharePoint 2010 支援 * 錯誤修正 
+
+詳細資料： 新報告 * 使用者活動報告會顯示任何使用者所存取的網站與網站類別。 * 所有 Forefront TMG 報告都具有全新的外觀。 
+
+URL 篩選強化 * 現在您可以允許使用者覆寫網站上被 URL 篩選所封鎖的存取限制。 • 現在您可以在企業層級覆寫 URL 的分類，該覆寫便會在每個企業連結陣列中生效。 * 現在您可以自訂拒絕通知頁面。 
+
+強化的分公司支援 * 現在可以將 Forefront TMG 與網域控制站配置在相同伺服器上，協助減少分公司的擁有權總成本。 * 當安裝在執行 Windows Server 2008 R2 的電腦上時，可將 Forefront TMG 設定為 BranchCache 託管快取伺服器。 
+
+SharePoint 2010 支援 * Forefront TMG SP1 支援 SharePoint 2010 的安全發行。
+</Description><UninstallNotes>閱讀 TechNet 文章＜安裝 Forefront TMG SP1＞(http://go.microsoft.com/fwlink/?LinkId=192286)，以取得解除安裝的相關資訊。</UninstallNotes><MoreInfoUrl>http://go.microsoft.com/fwlink/?LinkID=192286</MoreInfoUrl><SupportUrl>http://go.microsoft.com/fwlink/?LinkID=192286</SupportUrl></LocalizedProperties>

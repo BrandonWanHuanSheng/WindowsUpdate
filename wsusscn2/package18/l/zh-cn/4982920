@@ -1,0 +1,1 @@
+<LocalizedProperties><Language>zh-cn</Language><Title>Office SharePoint Foundation 2010 安全更新 (KB2494001)</Title><Description>Office SharePoint Foundation 2010 中存在一个安全漏洞，当打开一个经过恶意修改的文件时，该漏洞使任意代码都能运行。 此更新可以消除该漏洞。</Description><MoreInfoUrl>http://support.microsoft.com/kb/2494001</MoreInfoUrl><SupportUrl>http://support.microsoft.com/?LN=zh-cn</SupportUrl></LocalizedProperties>

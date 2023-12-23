@@ -1,0 +1,10 @@
+<LocalizedProperties><Language>fr</Language><Title>Forefront Threat Management Gateway (TMG) 2010 Service Pack 1</Title><Description>Ce Service Pack contient les améliorations suivantes : * Nouveaux rapports * Améliorations du filtrage des URL * Amélioration du support apporté aux filiales * Prise en charge de SharePoint 2010 * Résolutions de bogues 
+
+Détails : Nouveaux rapports * Le rapport Activité de l'utilisateur affiche les sites et catégories de sites auxquels accède chaque utilisateur. * Tous les rapports Forefront TMG ont une nouvelle apparence. 
+
+Améliorations du filtrage des URL * Vous pouvez désormais permettre aux utilisateurs de remplacer les restrictions d'accès sur les sites bloqués par le filtrage des URL. * Vous pouvez maintenant remplacer la catégorie d'une URL au niveau entreprise ; ce remplacement s'applique à chaque tableau joint de l'entreprise. * Les pages de notification de refus peuvent à présent être personnalisées. 
+
+Amélioration du support apporté aux filiales * Il est désormais possible de colocaliser Forefront TMG et un contrôleur de domaine sur le même serveur, ce qui permet de réduire le coût total de possession pour les filiales. * Installé sur un ordinateur exécutant Windows Server 2008 R2, Forefront TMG peut être configuré en tant que serveur de cache hébergé BranchCache. 
+
+Prise en charge de SharePoint 2010 * Forefront TMG SP1 prend en charge la publication sécurisée de SharePoint 2010.
+</Description><UninstallNotes>Consultez l'article TechNet « Installation de Forefront TMG SP1 » (http://go.microsoft.com/fwlink/?LinkId=192286) pour obtenir les instructions de désinstallation.</UninstallNotes><MoreInfoUrl>http://go.microsoft.com/fwlink/?LinkID=192286</MoreInfoUrl><SupportUrl>http://go.microsoft.com/fwlink/?LinkID=192286</SupportUrl></LocalizedProperties>

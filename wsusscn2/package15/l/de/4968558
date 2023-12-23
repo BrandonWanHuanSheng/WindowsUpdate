@@ -1,0 +1,4 @@
+<LocalizedProperties><Language>de</Language><Title>Sicherheitsupdate für ISA Server 2004 Enterprise Edition (KB 960995)
+</Title><Description>Mit diesem Update werden die im Knowledge Base-Artikel 960995 (ISA Server 2004) beschriebenen Probleme behoben:
+
+• Die Webproxy- und Webveröffentlichungslistener von ISA Server 2004 akzeptieren nach dem Empfangen von speziell erstellten Paketen möglicherweise keine Anforderungen mehr.</Description><UninstallNotes>Dieses Softwareupdate kann über die Option Software in der Systemsteuerung entfernt werden.</UninstallNotes><MoreInfoUrl>http://support.microsoft.com/kb/960995</MoreInfoUrl><SupportUrl>http://support.microsoft.com/kb/960995</SupportUrl></LocalizedProperties>

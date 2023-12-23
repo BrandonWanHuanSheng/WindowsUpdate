@@ -1,0 +1,4 @@
+<LocalizedProperties><Language>zh-tw</Language><Title>ISA Server 2006 RTM (KB 968078) 的安全性更新</Title><Description>此更新會解決知識庫文章 968078 (ISA Server 2006) 所描述的問題：
+
+• ISA Server 2006 Web Proxy 和 Web 發行接聽程式在接收特別製作的封包後，即停止接受新的要求。• ISA Server 2006 表單型驗證可能會讓惡意網站將瀏覽器重新導向至看起來合法但實際為非法的登入表單。
+</Description><UninstallNotes>此軟體更新可以從 [控制台] 中的 [新增或移除程式] 加以移除。</UninstallNotes><MoreInfoUrl>http://support.microsoft.com/kb/968078</MoreInfoUrl><SupportUrl>http://support.microsoft.com/kb/968078</SupportUrl></LocalizedProperties>

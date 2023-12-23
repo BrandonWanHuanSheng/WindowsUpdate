@@ -1,0 +1,5 @@
+<LocalizedProperties><Language>ko</Language><Title>ISA Server 2006 SP1에 대한 보안 업데이트(KB 968078)</Title><Description>이 업데이트는 기술 자료(KB) 문서 968078(ISA Server 2006)에 설명된 다음 문제를 해결합니다.
+
+• ISA Server 2006 웹 프록시 및 웹 게시 수신기에 특수 고안된 패킷이 수신되면 더 이상 새 요청을 받지 못할 수 있습니다. • ISA Server 2006 양식 기반 인증을 사용하면 악성 웹 사이트에 의해 안전해 보이나 실상은 그렇지 않은 로그인 양식으로 브라우저가 리디렉션될 수 있습니다.
+
+</Description><UninstallNotes>이 소프트웨어 업데이트는 제어판의 프로그램 추가/제거를 통해 제거할 수 있습니다.</UninstallNotes><MoreInfoUrl>http://support.microsoft.com/kb/968078</MoreInfoUrl><SupportUrl>http://support.microsoft.com/kb/968078</SupportUrl></LocalizedProperties>

@@ -1,0 +1,10 @@
+<LocalizedProperties><Language>ko</Language><Title>Forefront Threat Management Gateway(TMG) 2010 서비스 팩 1</Title><Description>이 서비스 팩에는 다음과 같이 향상된 기능이 포함되어 있습니다. * 새 보고서 * URL 필터링 향상 * 향상된 지사 지원 * SharePoint 2010 지원 * 버그 수정 
+
+설명: 새 보고서 * 사용자 작업 보고서에는 모든 사용자가 액세스할 수 있는 사이트 및 사이트 범주가 표시됩니다. * 모든 Forefront TMG 보고서의 레이아웃이 변경되었습니다. 
+
+URL 필터링 향상 * 이제 URL 필터링에서 차단된 사이트의 액세스 제한을 사용자가 재정의하도록 할 수 있습니다. * 이제 엔터프라이즈 수준에서 URL의 범주를 재정의할 수 있으며, 이러한 재정의는 엔터프라이즈가 가입된 각 배열에도 적용됩니다. * 이제 거부 알림 페이지를 사용자 지정할 수 있습니다. 
+
+향상된 지사 지원 * 동일한 서버에서 Forefront TMG와 도메인 컨트롤러를 함께 사용하면 지사에서 소유 비용을 절감할 수 있습니다. * Windows Server 2008 R2가 실행 중인 컴퓨터에 설치하면 Forefront TMG를 BranchCache 호스트 캐시 서버로 구성할 수 있습니다. 
+
+SharePoint 2010 지원 * Forefront TMG SP1을 통해 SharePoint 2010을 안전하게 게시할 수 있습니다.
+</Description><UninstallNotes>제거 정보는 TechNet 문서 "Forefront TMG SP1 설치"()를 참조하십시오.</UninstallNotes><MoreInfoUrl>http://go.microsoft.com/fwlink/?LinkID=192286</MoreInfoUrl><SupportUrl>http://go.microsoft.com/fwlink/?LinkID=192286</SupportUrl></LocalizedProperties>

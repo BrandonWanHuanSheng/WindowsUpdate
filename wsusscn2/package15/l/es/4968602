@@ -1,0 +1,4 @@
+<LocalizedProperties><Language>es</Language><Title>Actualización de seguridad para ISA Server 2006 RTM (KB 968078)</Title><Description>Con esta actualización se resuelven los problemas descritos en el artículo 968078 de Knowledge Base (ISA Server 2006):
+
+• Los agentes de escucha para proxy web y publicación en web de ISA Server 2006 pueden dejar de aceptar nuevas solicitudes después de recibir paquetes especialmente diseñados. • La autenticación de ISA Server 2006 basada en formularios podría permitir que un sitio web malicioso redirija el explorador a un formulario de inicio de sesión que parece legítimo, pero no lo es.
+</Description><UninstallNotes>Esta actualización de software se puede quitar con Agregar o quitar programas en el Panel de control.</UninstallNotes><MoreInfoUrl>http://support.microsoft.com/kb/968078</MoreInfoUrl><SupportUrl>http://support.microsoft.com/kb/968078</SupportUrl></LocalizedProperties>
