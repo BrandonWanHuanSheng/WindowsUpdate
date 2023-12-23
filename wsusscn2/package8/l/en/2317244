@@ -1,0 +1,4 @@
+<LocalizedProperties><Language>en</Language><Title>
+NOT Windows SBS 2008 Server RTM
+ Detectoid
+        </Title><Description>Used to block offering of content to Windows SBS2008 RTM SKU</Description></LocalizedProperties>

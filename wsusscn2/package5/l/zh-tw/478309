@@ -1,0 +1,1 @@
+<LocalizedProperties><Language>zh-tw</Language><Title>MSXML 4.0 SP2 安全性更新程式  (KB925672)</Title><Description>Microsoft XML Core Services 出現的漏洞將洩漏資訊，因為 XMLHTTP ActiveX 控制項會錯誤地轉譯 HTTP 伺服器端重新導向。</Description><MoreInfoUrl>http://support.microsoft.com/kb/925672</MoreInfoUrl><SupportUrl>http://support.microsoft.com/kb/925672</SupportUrl></LocalizedProperties>

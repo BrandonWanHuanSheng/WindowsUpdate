@@ -1,0 +1,1 @@
+<UpdateIdentity UpdateID="1B2060B9-9F95-4783-9B60-F1E341E7796A" RevisionNumber="100" /><Properties UpdateType="Detectoid" /><Relationships /><ApplicabilityRules><IsInstalled><b.FileVersion Path="wuaueng.dll" Comparison="GreaterThanOrEqualTo" Version="7.2.6001.0000" Csidl="37" /></IsInstalled></ApplicabilityRules>

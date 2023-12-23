@@ -1,0 +1,4 @@
+<LocalizedProperties><Language>en</Language><Title>SCVMM 2008 RTM Server (64 bit)</Title><Description>This detects if the Microsoft System Center Virtual Machine Manager 2008 Server product is installed. 
+Also detects that the VMMService is installed (this is not installed if "/prep"  option is given at setup.  This update should not be offered if the VMMService is not installed, only after the entire setup process is complete).
+This is 64 bit only.
+The version of the SCVMM 2008 RTM is 2.0.3444.0</Description></LocalizedProperties>

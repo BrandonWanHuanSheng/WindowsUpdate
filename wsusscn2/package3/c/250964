@@ -1,0 +1,1 @@
+<UpdateIdentity UpdateID="a3475da7-e20a-46a8-b235-170794365b3d" RevisionNumber="102" /><Properties UpdateType="Detectoid" /><Relationships /><ApplicabilityRules><IsInstalled><b.RegSz Key="HKEY_LOCAL_MACHINE" Subkey="HARDWARE\DESCRIPTION\System" Value="Identifier" Comparison="EqualTo" Data="NEC PC-98" /></IsInstalled></ApplicabilityRules>

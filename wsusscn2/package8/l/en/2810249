@@ -1,0 +1,1 @@
+<LocalizedProperties><Language>en</Language><Title>WLM9 filter for Vista-WS08 SP2</Title><Description>This detectoid blocks offering SP2 to machines with this specific WLM version and UAC off. This filter will apply to both Vista and WS08.</Description></LocalizedProperties>

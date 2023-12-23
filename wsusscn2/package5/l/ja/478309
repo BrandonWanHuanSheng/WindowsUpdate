@@ -1,0 +1,1 @@
+<LocalizedProperties><Language>ja</Language><Title>MSXML 4.0 SP2 セキュリティ更新プログラム (KB925672)</Title><Description>Microsoft XML Core Services には、XMLHTTP ActiveX コントロールが HTTP サーバー側リダイレクトを誤って解釈するために情報が開示されるおそれがある脆弱性が存在します。</Description><MoreInfoUrl>http://support.microsoft.com/kb/925672</MoreInfoUrl><SupportUrl>http://support.microsoft.com/kb/925672</SupportUrl></LocalizedProperties>

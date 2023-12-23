@@ -1,0 +1,1 @@
+<LocalizedProperties><Language>en</Language><Title>WSS v3 Single Server Detectoid</Title><Description>The detectoid is true if and only if WSS is installed in a single-server configuration. It is used to prevent offering of WSS updates to farm installations. Also includes (WS2003).</Description></LocalizedProperties>

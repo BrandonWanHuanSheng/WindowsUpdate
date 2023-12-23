@@ -1,0 +1,1 @@
+<UpdateIdentity UpdateID="4c92448b-cddc-4825-a519-1df3b68f0f6c" RevisionNumber="100" /><Properties UpdateType="Detectoid" /><Relationships><Prerequisites><UpdateIdentity UpdateID="f54d8a80-c7e1-476c-9995-3d6aee4bfb58" /></Prerequisites></Relationships><ApplicabilityRules><IsInstalled><b.Processor Architecture="9" /></IsInstalled></ApplicabilityRules>

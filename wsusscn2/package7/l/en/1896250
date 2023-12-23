@@ -1,0 +1,8 @@
+<LocalizedProperties><Language>en</Language><Title>Category for System Center Online Client</Title><Description>System Center Online Client is the client software for Microsoft Asset Inventory Service (AIS). Updates offered in this category will apply only to computers running the System Center Online Client software and will contain updates including security updates. 
+
+AIS is an online service that translates inventory data into business intelligence.
+AIS is accessible through the Microsoft Desktop Optimization Pack for Software Assurance. 
+For more information, see: http://www.microsoft.com/sconline
+
+For tips on how to configure AIS client computer behavior by using Group Policy, see:  (http://technet.microsoft.com/en-us/sconline/bb847943.aspx).
+</Description></LocalizedProperties>
