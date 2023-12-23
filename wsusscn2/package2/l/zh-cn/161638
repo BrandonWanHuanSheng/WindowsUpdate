@@ -1,0 +1,1 @@
+<LocalizedProperties><Language>zh-cn</Language><Title>Windows Server 2003 安全更新程序 (KB885881)</Title><Description>现已确认使用 Windows SMTP 组件的 Windows Server 2003 系统中有一个安全问题，攻击者可能会利用此问题危及 Windows 系统的安全并获取对系统的控制权。通过安装 Microsoft 提供的本更新程序，可以帮助您保护计算机。安装本更新程序之后，可能需要重新启动计算机。</Description><SupportUrl>http://go.microsoft.com/fwlink/?LinkId=35081</SupportUrl></LocalizedProperties>

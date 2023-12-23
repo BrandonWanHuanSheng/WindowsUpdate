@@ -1,0 +1,1 @@
+<UpdateIdentity UpdateID="85086066-47E8-4015-AFAF-3D90A43C3F53" RevisionNumber="100" /><Properties UpdateType="Detectoid" /><Relationships><Prerequisites><UpdateIdentity UpdateID="614FAE29-54EA-466F-BC5B-3ABA4597A8EE" /></Prerequisites></Relationships><ApplicabilityRules><IsInstalled><b.FileExists Path="MEMORY.DMP" Csidl="36" /></IsInstalled></ApplicabilityRules>

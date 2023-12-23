@@ -1,0 +1,1 @@
+<LocalizedProperties><Language>en</Language><Title>DreamScene RTL filter</Title><Description>This detectoid will return true (is Installed) if the install language of the OS is anything other than Arabic or Hebrew.  The AND logic lets short-circuit evaluation kick in.</Description></LocalizedProperties>

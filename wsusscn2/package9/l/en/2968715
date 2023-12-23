@@ -1,0 +1,1 @@
+<LocalizedProperties><Language>en</Language><Title>WSUS 3.0 SP2 Applicable Platform Detectoid</Title><Description>This detectoid will evaluate to TRUE only if there is a previous WSUS version on the machine and it is on WSUS 3 SP2 supported platforms. WSUS 3 SP2 upgrade package uses this detectoid as pre-req</Description></LocalizedProperties>

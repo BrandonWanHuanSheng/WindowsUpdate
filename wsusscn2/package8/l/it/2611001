@@ -1,0 +1,10 @@
+<LocalizedProperties><Language>it</Language><Title>Aggiornamento della protezione per Forefront Threat Management Gateway, Medium Business Edition (KB 968075)
+</Title><Description>Questo aggiornamento consente di risolvere l'errore descritto nell'articolo 968075 della Knowledge Base (Forefront TMG, Medium Business Edition):
+
+• È possibile che i listener di pubblicazione sul Web e dei proxy Web di Forefront TMG (MBE) non accettino più nuove richieste dopo aver ricevuto pacchetti speciali. • È possibile che l'autenticazione basata su form di Forefront TMG (MBE) consenta a un sito Web dannoso di reindirizzare il browser a un form di accesso che sembra attendibile mentre non lo è. 
+
+
+Se si installa questa patch in un computer che esegue un componente di Forefront TMG, Medium Business Edition quale la console di gestione, ma non il Servizio firewall, non sarà possibile disinstallare questo aggiornamento della protezione tramite l'interfaccia utente di Windows. È possibile disinstallare l'aggiornamento utilizzando il seguente comando al prompt della riga di comando:
+
+msiexec.exe /l*v+ %windir%\temp\ISA_Uninst_968075.log /i {FAA20DE6-1150-4026-B56A-33E9FFB8DDAD} REINSTALL=ALL MSIPATCHREMOVE={994DFD22-1909-457C-8AE4-80722A6A49B5} /qb
+</Description><UninstallNotes>Questo aggiornamento software può essere rimosso tramite Installazione applicazioni del Pannello di controllo.</UninstallNotes><MoreInfoUrl>http://support.microsoft.com/kb/968075</MoreInfoUrl><SupportUrl>http://support.microsoft.com/kb/968075</SupportUrl></LocalizedProperties>

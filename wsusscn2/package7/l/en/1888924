@@ -1,0 +1,1 @@
+<LocalizedProperties><Language>en</Language><Title>D_WV_Server_Prerequisite_DNS_SP1</Title><Description>Detects all post isa2006 SP1 builds (including), until the security update itself (excluding)</Description></LocalizedProperties>

@@ -1,0 +1,1 @@
+<UpdateIdentity UpdateID="8bc19572-a4b6-4910-b70d-716fecffc1eb" RevisionNumber="100" /><Properties UpdateType="Category" /><Relationships><Prerequisites><AtLeastOne IsCategory="true"><UpdateIdentity UpdateID="504ae250-57c5-484a-8a10-a2c35ea0689b" /></AtLeastOne></Prerequisites></Relationships><ApplicabilityRules><IsInstalled><True /></IsInstalled></ApplicabilityRules>

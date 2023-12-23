@@ -1,0 +1,1 @@
+<LocalizedProperties><Language>zh-cn</Language><Title>MSXML 4.0 SP2 安全性更新 (KB925672)</Title><Description>因为 XMLHTTP ActiveX 控件错误地解释 HTTP 服务器端重定向，因此 Microsoft XML Core Services 中存在的漏洞可能会导致信息泄漏。</Description><MoreInfoUrl>http://support.microsoft.com/kb/925672</MoreInfoUrl><SupportUrl>http://support.microsoft.com/kb/925672</SupportUrl></LocalizedProperties>

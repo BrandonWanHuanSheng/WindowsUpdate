@@ -1,0 +1,1 @@
+<UpdateIdentity UpdateID="80a776cd-4be9-462d-b2b3-4c6e68c87ea1" RevisionNumber="101" /><Properties UpdateType="Detectoid" /><Relationships /><ApplicabilityRules><IsInstalled><Not><b.RegSz Key="HKEY_LOCAL_MACHINE" Subkey="SOFTWARE\Microsoft\Windows\CurrentVersion\Telephony\Country List\886" Value="Name" Comparison="EqualTo" Data="台灣" /></Not></IsInstalled></ApplicabilityRules>

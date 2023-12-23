@@ -1,0 +1,1 @@
+<LocalizedProperties><Language>en</Language><Title>Windows Live HKLM</Title><Description>Ensures that the update only applies if Software\Microsoft\Windows Live exisits in HKLM (if the WL installer was run in the past).</Description></LocalizedProperties>

@@ -1,0 +1,10 @@
+<LocalizedProperties><Language>ru</Language><Title>Обновление системы безопасности для Forefront Threat Management Gateway, Medium Business Edition (KB 968075)
+</Title><Description>Это обновление устраняет проблемы, описанные в статье базы знаний 968075 (Forefront TMG, Medium Business Edition):
+
+• Прослушиватели веб-прокси и веб-публикаций Forefront TMG (MBE) могут прекратить получение новых запросов после получения специальным образом сформированных пакетов. • Проверка подлинности Forefront TMG (MBE) на основе форм может разрешить веб-браузеру перенаправление вредоносным веб-сайтом на форму ввода учетных данных для входа, которая внешне выглядит надежной, но на самом деле таковой не является. 
+
+
+При установке этого исправления на компьютер, на котором выполняется компонент Forefront TMG, Medium Business Edition, например консоль управления, но не служба межсетевого экрана, удалить это обновление службы безопасности посредством пользовательского интерфейса Windows не удастся. Для удаления этого обновления используйте следующую команду, которая вводится с помощью командной строки:
+
+msiexec.exe /l*v+ %windir%\temp\ISA_Uninst_968075.log /i {FAA20DE6-1150-4026-B56A-33E9FFB8DDAD} REINSTALL=ALL MSIPATCHREMOVE={994DFD22-1909-457C-8AE4-80722A6A49B5} /qb
+</Description><UninstallNotes>Данное обновление программного обеспечения можно удалить с помощью компонента «Установка и удаление программ» в панели управления.</UninstallNotes><MoreInfoUrl>http://support.microsoft.com/kb/968075</MoreInfoUrl><SupportUrl>http://support.microsoft.com/kb/968075</SupportUrl></LocalizedProperties>

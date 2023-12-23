@@ -1,0 +1,1 @@
+<UpdateIdentity UpdateID="076f2a77-facb-49ce-9b9c-21dffaa3d2e1" RevisionNumber="101" /><Properties UpdateType="Detectoid" /><Relationships /><ApplicabilityRules><IsInstalled><b.RegSz Key="HKEY_LOCAL_MACHINE" Subkey="SYSTEM\CurrentControlSet\Control\Nls\Language" Value="InstallLanguage" Comparison="EqualTo" Data="0c0a" /></IsInstalled></ApplicabilityRules>

@@ -1,0 +1,1 @@
+<LocalizedProperties><Language>en</Language><Title>NOT Windows Server Core 2008 rooted to all OS categories</Title><Description>Used to exclude updates from offering to Windows Server Core 2008 SKU.  Use this for updates that span multiple operating systems, like MSRT.</Description></LocalizedProperties>
