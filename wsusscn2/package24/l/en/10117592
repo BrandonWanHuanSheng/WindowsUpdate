@@ -1,0 +1,1 @@
+<LocalizedProperties><Language>en</Language><Title>NOT (Servercore for .NET - FOR SERVER ONLY)</Title><Description>Used to exclude updates from offering to Server Core SKU for "WS08 SP2" AND "WS08 R2 RTM".   Only Windows Server Core 2008 R2 SP1 is supported for .NET</Description></LocalizedProperties>

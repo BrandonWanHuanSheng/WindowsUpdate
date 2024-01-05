@@ -1,0 +1,1 @@
+<LocalizedProperties><Language>en</Language><Title>Driver Flighting Check for System</Title><Description>Evaluates to true if driver flighting for certain generic devices (like, Input) is enabled on a client machine</Description></LocalizedProperties>

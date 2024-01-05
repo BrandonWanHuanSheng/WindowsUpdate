@@ -1,0 +1,1 @@
+<LocalizedProperties><Language>en</Language><Title>NOT Windows Server Core Detectoid rooted to all OS categories</Title><Description>Used to exclude updates from offering to all Server OS Categories. Use this for updates that span multiple operating systems, like MSRT.</Description></LocalizedProperties>

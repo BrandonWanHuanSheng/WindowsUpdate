@@ -1,0 +1,1 @@
+<LocalizedProperties><Language>en</Language><Title>NOT (.NET 4.5.2 or higher exists)</Title><Description>This detectoid checks that the machine does not have the .NET 4.5.2 or higher products already installed.</Description></LocalizedProperties>
