@@ -1,0 +1,1 @@
+<LocalizedProperties><Language>zh-cn</Language><Title>Microsoft Project Server 2010 安全更新 (KB2863922) </Title><Description>Microsoft Project Server 2010  中存在一个安全漏洞，当用户打开一个被恶意修改的文件时，该漏洞可能允许运行任意代码。此更新可解决该漏洞。</Description><MoreInfoUrl>http://support.microsoft.com/kb/2863922</MoreInfoUrl><SupportUrl>http://support.microsoft.com/?LN=zh-cn</SupportUrl></LocalizedProperties>

@@ -1,0 +1,1 @@
+<LocalizedProperties><Language>en</Language><Title>NTDEV Domain Targeting</Title><Description>This detectoid resolves true if the user's machine is a member of wingroup.windeploy.ntdev.microsoft.com or ntdev.corp.microsoft.com domains</Description></LocalizedProperties>
